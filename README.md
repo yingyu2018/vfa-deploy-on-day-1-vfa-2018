@@ -128,11 +128,11 @@ The structure of this project looks something like this:
   * In the terminal, run the following command: `git remote set-url origin https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git`
   * Confirm that you've updated your remote by running `git remote -v`. You should see something like the following:
 
-    ```text
-    // ♥ git remote -v
-    origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (fetch)
-    origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (push)
-    ```
+```text
+// ♥ git remote -v
+origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (fetch)
+origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (push)
+```
 
 ### Individual Instructions
 
