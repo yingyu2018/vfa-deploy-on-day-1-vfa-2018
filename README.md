@@ -49,11 +49,8 @@ Please collect the following content from your assigned partner for their profil
 
 * Select your cover and profile pictures
 * Upload your cover and profile pictures to imgur (they should be jpg or png files):
-  * Head to <a href="http://imgur.com/" target="_blank">imgur.com</a>
-  * click on the blue 'Upload images' button on the top of the page
-  * You can then drag and drop the cover, and profile images to that page, or use the 'browse your computer option to find them manually'
-  * Click on the 'Start Upload' button to upload the images
-  * If you hover over the top right of each image, you should see a link with 3 little dots on the left, hover over those dots and copy the **direct link** URL and paste that somewhere safe. **You will need to use these links in the `css/styles.css` file to be able to display the images in your profile**.
+  * Head to <a href="https://imgur.com/upload/" target="_blank">imgur.com/upload</a> and upload your profile and cover images
+  * After you upload each image, copy the **direct link** URL and paste that somewhere safe. **You will need to use these links in the `css/styles.css` file to be able to display the images in your profile**.
 * Share links to your cover and profile images with your partner
 
 ## Structure
@@ -125,7 +122,7 @@ The structure of this project looks something like this:
 * Following, the Team Lead should then send the url to clone their fork to everyone sitting at their table. This url will look something like `git@github.com:TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git`.
 * Now every team member except their team lead should [update their git `remote` url](https://help.github.com/articles/changing-a-remote-s-url/) to the team lead's url.
   * Open this lesson in your Learn IDE
-  * In the terminal, run the following command: `git remote set-url origin https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git`
+  * In the terminal, run the following command: `git remote set-url origin https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git` (**note:** the URL there is the clone link your team lead just shared with you)
   * Confirm that you've updated your remote by running `git remote -v`. You should see something like the following:
 
 ```text
@@ -133,6 +130,8 @@ The structure of this project looks something like this:
 origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (fetch)
 origin  https://github.com/TEAM-LEAD-GITHUB-USERNAME/vfa-deploy-on-day-1.git (push)
 ```
+
+* Finally, every team member should pull down the latest changes from the team lead's repo by running `git pull origin master` in their terminal.
 
 ### Individual Instructions
 
