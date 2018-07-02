@@ -24,7 +24,7 @@ Your assignment is to create a profile page for someone sitting at your table. B
 
 Now if you're anything like me, you might be freaking out and wondering, "Am I making a webapp?!?!" The answer is no. You're just working with HTML and file structures. You don't need to know Rails, JavaScript, or even Ruby for this project. No need to freak out. Calm down! Seriously, you're making the rest of us nervous!!!
 
-You'll have about three hours to complete the first section of this lab. Use that time to get to know your table, get familiar with git workflows, and re-familiarizing yourself with HTML. If you feel stuck, ask your Flatiron School trainer or any of the TAs for help. **Keep in mind everyone in your table will be pushing to the same repository.**  Think about using a workflow with your teammates that will minimize conflicts.
+You'll have the whole workshop to complete this lab. Use that time to get to know your table, get familiar with git workflows, and re-familiarize yourself with HTML. If you feel stuck, ask your Flatiron School trainer or any of the TAs for help. **Keep in mind everyone in your table will be pushing to the same repository.**  Think about using a workflow with your teammates that will minimize conflicts.
 
 ## Requirements
 
